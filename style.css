@@ -1,0 +1,28 @@
+body {
+  background-color: #121212;
+}
+
+header {
+  text-align: center;
+  font-family: "Space Mono", monospace;
+  color: #28afe4;
+}
+
+.food {
+  font-family: "Quicksand", sans-serif;
+  text-align: center;
+  margin: auto;
+  width: 40%;
+  height: 150px;
+  background-color: #28afe4;
+}
+
+a {
+  color: #333333;
+  text-decoration: none;
+  transition: 0.5s;
+}
+a:hover {
+  color: #121212;
+  text-decoration: underline;
+}
