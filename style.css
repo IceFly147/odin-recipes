@@ -26,3 +26,9 @@ a:hover {
   color: #121212;
   text-decoration: underline;
 }
+
+footer{
+  text-align: center;
+  background-color: #000;
+  color: white;
+}
